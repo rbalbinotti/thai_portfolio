@@ -1,0 +1,16 @@
+site_name: ETL - Projeto Casa de Eventos Thai
+repo_url: https://github.com/rbalbinotti
+repo_name: rbalbinotti/ETL - Projeto Casa de Eventos Thai
+edit_uri: tree/main/docs
+
+theme:
+    name: material
+    language: pt-BR
+    logo: assets/logo.jpeg
+    favicon: assets/logo.jpeg
+
+markdown_extensions:
+    - attr_list
+
+extra_css:
+    - stylesheets/extra.css
