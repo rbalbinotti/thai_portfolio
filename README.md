@@ -26,6 +26,9 @@ Projeto para acompanhamento de dados comerciais
 
 > Identificação e contato dos clientes foram suprimidos dos dados.
 > Somente dados de vendas foram disponibilizados, impossibilitando um aprofundamento nas análises.
+
+Uma proposta de apresentação de dashboard [PowerBI](httpsapp.powerbi.comgroupsmereports437a735e-d8ce-41ed-9ab5-cd6d09965abbctid=95b5599e-390a-4a3f-89b3-994aea1ad632&pbi_source=linkShare).
+
 ---
 Roberto Balbinotti
 rbalbinotti@gmail.com - 51-92001.8268
