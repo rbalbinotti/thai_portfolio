@@ -6,11 +6,11 @@ edit_uri: tree/main/docs
 theme:
     name: material
     language: pt-BR
-    logo: docs/assets/logo.jpeg
-    favicon: docs/assets/logo.jpeg
+    logo: assets/logo.jpeg
+    favicon: assets/logo.jpeg
 
 markdown_extensions:
     - attr_list
 
 extra_css:
-    - docs/stylesheets/extra.css
+    - stylesheets/extra.css
